@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyStake</string>
+    <string name="no_internet">No Internet Available 🤞🏼</string>
+    <string name="text_empty_state_detail">Check you network connection 🚀\nPull down to refresh!!</string>
+    <string name="text_empty_state_title">No data Found</string>
+    <string name="too_many_request">Too many requests in less time 😴</string>
+    <string name="exhaust_limit">Daily quota limit reached</string>
+    <string name="desc_got_top">goto the top of the list</string>
+    <string name="desc_accepted_answer">Accepted answer</string>
+</resources>
